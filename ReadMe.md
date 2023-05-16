@@ -14,7 +14,7 @@ To play Space Jump locally, follow these steps:
 Clone the repository to your local machine using the following command:
 shell
 Copy code
-git clone https://github.com/your-username/space-jump.git
+git clone https://github.com/adesteban/Space-Jump---Lua-Game-Repository.git
 Ensure you have Lua installed on your system. You can download Lua from the official website: Lua.org
 
 Open a terminal or command prompt, navigate to the project's directory, and run the game using the Lua interpreter:
